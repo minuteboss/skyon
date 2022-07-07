@@ -1,1 +1,1 @@
-web: gunicorn skyon.wsgi --log-file -
+web: gunicorn Skyon.wsgi --log-file -

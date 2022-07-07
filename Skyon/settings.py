@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ec!11v#4po(lpeh98p_7=9d6$xujx^p7@@*=%6ct37+kcm)h+w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['skyon.herokuapp.com']
+ALLOWED_HOSTS = ['skyon.herokuapp.com','127.0.0.1']
 
 
 # Application definition
